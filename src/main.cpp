@@ -1,5 +1,4 @@
 #include <Arduino.h>
-
 #include <Arduino.h>
 #include <WiFi.h>
 #include <PubSubClient.h>
@@ -7,7 +6,7 @@
 #include "RuipuBattery.h"
 #include "config.h"
 
-// HardwareSerial: Serial2 für RX/TX z.B. an GPIO16 (RX), GPIO17 (TX)
+// HardwareSerial: 
 #define BMS_RX 20
 #define BMS_TX 21
 
